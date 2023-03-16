@@ -2,6 +2,7 @@
 # https://blog.csdn.net/qq_38395705/article/details/106683455
 # pip install opencv-python
 # pip install win32gui
+# pip install pandas
 
 
 import cv2
